@@ -6,4 +6,8 @@ seaborn==0.13.2
 nltk==3.9.2
 wordcloud==1.9.4
 requests==2.32.5
+gradio
+tensorflow
+transformers
 tf-keras
+
