@@ -7,6 +7,14 @@
 
 > **Project Achievement:** This project was developed as part of the **Dicoding Deep Learning** course and achieved a perfect **5-star rating (Distinction)** from the reviewer.
 
+## 🌐 Live Demo
+Try the model interactively! I have deployed the best-performing model (IndoBERT) as a web application.
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/riells/App-Review-Sentiment)
+
+👉 **[Click Here to Test the App](https://huggingface.co/spaces/riells/App-Review-Sentiment)**
+
+---
 ## 📌 Project Overview
 This project focuses on **Multi-class Sentiment Analysis** (Positive, Neutral, Negative) on Indonesian travel app reviews. The primary goal is to benchmark the performance of traditional Deep Learning architectures (**LSTM, GRU**) against State-of-the-Art Transformer models (**IndoBERT**).
 
