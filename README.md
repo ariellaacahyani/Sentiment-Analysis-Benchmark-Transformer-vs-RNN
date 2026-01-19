@@ -59,4 +59,4 @@ Based on expert feedback, the following advanced techniques are planned for impl
     Open `Sentiment_Analysis_Project.ipynb` in Jupyter Notebook or Google Colab.
 
 ---
-**Created by [Nama Kamu]**
+**Created by [Ariella Cahyani]**
