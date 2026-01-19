@@ -33,7 +33,7 @@ The dataset consists of **64,000+ scraped reviews**, making it a robust case stu
 > *Note: While RNNs (GRU/LSTM) are lighter and faster, IndoBERT proved to be significantly more robust in capturing semantic meaning in Indonesian text.*
 
 ## 🚀 Roadmap & Future Improvements
-Based on expert feedback, the following advanced techniques are planned for implementation in upcoming projects (e.g., Computer Vision / Image Classification):
+Based on expert feedback, the following advanced techniques are planned for implementation in upcoming projects:
 
 * **Pipeline Automation:** Implementing `tf.data` or Scikit-Learn Pipelines to automate the workflow from preprocessing to evaluation efficiently.
 * **Advanced Data Handling:** Restructuring the workflow to perform augmentation and scaling *after* splitting the dataset to strictly prevent **Data Leakage**.
@@ -49,14 +49,14 @@ Based on expert feedback, the following advanced techniques are planned for impl
 ## 📥 How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/USERNAME_GITHUB_KAMU/Sentiment-Analysis-Benchmark-Transformer-vs-RNN.git](https://github.com/USERNAME_GITHUB_KAMU/Sentiment-Analysis-Benchmark-Transformer-vs-RNN.git)
+    git clone https://github.com/ariellaacahyani/Sentiment-Analysis-Benchmark-Transformer-vs-RNN
     ```
 2.  **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 3.  **Run the Notebook:**
-    Open `Sentiment_Analysis_Project.ipynb` in Jupyter Notebook or Google Colab.
+    Open `notebook.ipynb` in Jupyter Notebook or Google Colab.
 
 ---
 **Created by [Ariella Cahyani]**
