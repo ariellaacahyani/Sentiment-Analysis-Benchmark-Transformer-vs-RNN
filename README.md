@@ -2,10 +2,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%7C%20HuggingFace-orange)
-![Rating](https://img.shields.io/badge/Rating-⭐⭐⭐⭐⭐-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-
-> **Project Achievement:** This project was developed as part of the **Dicoding Deep Learning** course and achieved a perfect **5-star rating (Distinction)** from the reviewer.
 
 ## 🌐 Live Demo
 Try the model interactively! I have deployed the best-performing model (IndoBERT) as a web application.
